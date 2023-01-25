@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to static developer portfolio 👋</h1>
 
-## Software Developer Portfolio Template built with bootstrap that helps you showcase your experience, skills and projects.
+## Software Developer Portfolio Template built with tailwind css that helps you showcase your experience, skills and projects.
 
 ## To view a live example, **[click here](https://hisachin.github.io/portfolio/)**.
 
@@ -40,7 +40,7 @@ Edit index.html and style.css
 
 ## Technologies Used
 
-- [Bootstrap](https://getbootstrap.com/)
+- [Tailwind Css](https://tailwindcss.com/)
 
 ## Illustrations
 
