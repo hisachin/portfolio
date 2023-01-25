@@ -1,0 +1,56 @@
+input[type="radio"] {
+    display: none;
+}
+
+div[skill-type="language"] {
+    color: #FEB139;
+}
+
+div[skill-type="framework"] {
+    color: #F55353;
+}
+
+div[skill-type="database"] {
+    color: #7A4069;
+}
+
+div[skill-type="tool"] {
+    color: #D61C4E;
+}
+
+div[skill-type="devops"] {
+    color: #E8AA42;
+}
+
+div[skill-weight="1"] {
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+div[skill-weight="2"] {
+    font-size: 2rem;
+    line-height: 2rem;
+}
+
+div[skill-weight="3"] {
+    font-size: 3rem;
+    line-height: 3rem;
+}
+
+div[skill-weight="4"] {
+    font-size: 3.5rem;
+    line-height: 4rem;
+}
+
+div[skill-weight="5"] {
+    font-size: 4rem;
+    line-height: 5rem;
+}
+
+.hide-skills {
+    height: 0;
+    margin: 0;
+    opacity: 0;
+    padding: 0;
+    width: 0;
+}
