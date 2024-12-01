@@ -8,7 +8,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800',
     tech: ['React', 'Tailwind'],
     github: 'https://github.com',
-    live: 'https://hisachin.github.com/portfolio'
+    live: 'https://hisachin.github.io/portfolio'
   },
   {
     title: 'BuildMVP',
