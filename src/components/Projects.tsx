@@ -19,6 +19,14 @@ const projects = [
     live: 'https://buildmvp.aidevguru.com/'
   },
   {
+    title: 'Aigency',
+    description: 'AI Agent Development',
+    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800',
+    tech: ['ReactJs', 'Nodejs','LLM','RAG','OpenAI'],
+    github: 'https://github.com/hisachin/aigency',
+    live: 'https://aigency-virid.vercel.app/'
+  },
+  {
     title: 'MyNotes',
     description: 'Simple Notes Application to take notes on your system.',
     image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800',
