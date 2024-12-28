@@ -1,11 +1,10 @@
-import React from 'react';
 import { Github, ExternalLink } from 'lucide-react';
 
 const projects = [
   {
     title: 'Portfolio',
     description: 'Single Page Portifolio Website using React.js and Tailwind CSS.',
-    image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800',
+    image: '/portfolio/public/hero_image.png',
     tech: ['React', 'Tailwind'],
     github: 'https://github.com',
     live: 'https://hisachin.github.io/portfolio'
@@ -14,22 +13,22 @@ const projects = [
     title: 'ChatHive',
     description: 'Chat With Your Docs',
     image: 'https://raw.githubusercontent.com/hisachin/chathive/refs/heads/master/public/images/main_desktop.png',
-    tech: ['Next.js', 'Nodejs','LLM','RAG','OpenAI','Langchain','HuggiingFace','Pinecone','MongoDB','Oauth'],
+    tech: ['Next.js', 'Nodejs','LLM','RAG','OpenAI','Langchain','HuggiingFace','Pinecone','MongoDB','OAuth'],
     github: 'https://github.com/hisachin/chathive',
     live: 'https://github.com/hisachin/chathive'
   },
   {
     title: 'BuildMVP',
     description: 'NextJS Boilerplate to build MVP within 3 days.',
-    image: 'https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?auto=format&fit=crop&q=80&w=800',
-    tech: ['NextJS', 'NodeJS', 'Vercel', 'Taillwind'],
+    image: '/portfolio/public/buildmvp.png',
+    tech: ['NextJS', 'NodeJS', 'Vercel', 'Taillwind','OAuth'],
     github: 'https://github.com/hisachin/nextjs-saas-boilerplate',
     live: 'https://buildmvp.aidevguru.com/'
   },
   {
     title: 'Aigency',
     description: 'AI Agent Development',
-    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800',
+    image: '/portfolio/public/aigency.png',
     tech: ['ReactJs', 'Nodejs','LLM','RAG','OpenAI'],
     github: 'https://github.com/hisachin/aigency',
     live: 'https://aigency-virid.vercel.app/'
@@ -37,7 +36,7 @@ const projects = [
   {
     title: 'MyNotes',
     description: 'Simple Notes Application to take notes on your system.',
-    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800',
+    image: '/portfolio/public/mynotes.png',
     tech: ['ReactJs', 'Nodejs','Vercel'],
     github: 'https://github.com/hisachin/my-notes_app',
     live: 'https://my-notes-app-sigma.vercel.app/'
@@ -45,8 +44,8 @@ const projects = [
   {
     title: 'Nyroboard',
     description: 'Whiteboard Collaboration Application',
-    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800',
-    tech: ['ReactJs', 'Nodejs'],
+    image: '/portfolio/public/nyroboard.png',
+    tech: ['ReactJs', 'Nodejs','OAuth'],
     github: 'https://github.com/hisachin/nyroboard',
     live: 'https://hisachin.github.io/nyroboard/'
   }
