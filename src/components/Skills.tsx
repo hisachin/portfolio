@@ -33,12 +33,26 @@ const skillCategories = [
     ]
   },
   {
+    title: 'AI APP Development',
+    icon: <Code className="w-6 h-6" />,
+    skills: [
+      { name: 'LLM', level: 'Beginner' },
+      { name: 'RAG', level: 'Beginner' },
+      { name: 'Langchain', level: 'Beginner' },
+      { name: 'OpenAI', level: 'Beginner' },
+      { name: 'Pinecone', level: 'Beginner' },
+      { name: 'Huggingface', level: 'Beginner' },
+      { name: 'CrewAI', level: 'Beginner' }
+    ]
+  },
+  {
     title: 'Database Systems',
     icon: <Database className="w-6 h-6" />,
     skills: [
       { name: 'MongoDB', level: 'Intermediate' },
       { name: 'MySQL', level: 'Intermediate' },
-      { name: 'Redis', level: 'Intermediate' }
+      { name: 'Redis', level: 'Intermediate' },
+      { name: 'Pinecone', level: 'Beginner' }
     ]
   },
   {
