@@ -11,6 +11,14 @@ const projects = [
     live: 'https://hisachin.github.io/portfolio'
   },
   {
+    title: 'ChatHive',
+    description: 'Chat With Your Docs',
+    image: 'https://raw.githubusercontent.com/hisachin/chathive/refs/heads/master/public/images/main_desktop.png',
+    tech: ['Next.js', 'Nodejs','LLM','RAG','OpenAI','Langchain','HuggiingFace','Pinecone','MongoDB','Oauth'],
+    github: 'https://github.com/hisachin/chathive',
+    live: 'https://github.com/hisachin/chathive'
+  },
+  {
     title: 'BuildMVP',
     description: 'NextJS Boilerplate to build MVP within 3 days.',
     image: 'https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?auto=format&fit=crop&q=80&w=800',
