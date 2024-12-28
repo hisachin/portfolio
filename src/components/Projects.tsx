@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Portfolio',
     description: 'Single Page Portifolio Website using React.js and Tailwind CSS.',
-    image: '/portfolio/public/hero_image.png',
+    image: 'https://raw.githubusercontent.com/hisachin/portfolio/refs/heads/main/public/hero_image.png',
     tech: ['React', 'Tailwind'],
     github: 'https://github.com',
     live: 'https://hisachin.github.io/portfolio'
@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'BuildMVP',
     description: 'NextJS Boilerplate to build MVP within 3 days.',
-    image: '/portfolio/public/buildmvp.png',
+    image: 'https://raw.githubusercontent.com/hisachin/portfolio/refs/heads/main/public/buildmvp.png',
     tech: ['NextJS', 'NodeJS', 'Vercel', 'Taillwind','OAuth'],
     github: 'https://github.com/hisachin/nextjs-saas-boilerplate',
     live: 'https://buildmvp.aidevguru.com/'
@@ -28,7 +28,7 @@ const projects = [
   {
     title: 'Aigency',
     description: 'AI Agent Development',
-    image: '/portfolio/public/aigency.png',
+    image: 'https://raw.githubusercontent.com/hisachin/portfolio/refs/heads/main/public/aigency.png',
     tech: ['ReactJs', 'Nodejs','LLM','RAG','OpenAI'],
     github: 'https://github.com/hisachin/aigency',
     live: 'https://aigency-virid.vercel.app/'
@@ -36,7 +36,7 @@ const projects = [
   {
     title: 'MyNotes',
     description: 'Simple Notes Application to take notes on your system.',
-    image: '/portfolio/public/mynotes.png',
+    image: 'https://raw.githubusercontent.com/hisachin/portfolio/refs/heads/main/public/mynotes.png',
     tech: ['ReactJs', 'Nodejs','Vercel'],
     github: 'https://github.com/hisachin/my-notes_app',
     live: 'https://my-notes-app-sigma.vercel.app/'
@@ -44,7 +44,7 @@ const projects = [
   {
     title: 'Nyroboard',
     description: 'Whiteboard Collaboration Application',
-    image: '/portfolio/public/nyroboard.png',
+    image: 'https://raw.githubusercontent.com/hisachin/portfolio/refs/heads/main/public/nyroboard.png',
     tech: ['ReactJs', 'Nodejs','OAuth'],
     github: 'https://github.com/hisachin/nyroboard',
     live: 'https://hisachin.github.io/nyroboard/'
